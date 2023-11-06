@@ -28,7 +28,7 @@ Calling all storytellers, coders, and RPG enthusiasts! We invite you to contribu
 
 Join the Community:
 
-Connect with fellow adventurers, share your tales, and get the latest updates by joining our [Discord server]. Engage in discussions, exchange strategies, and become a part of the growing community of Infinite Adventures players.
+Connect with fellow adventurers, share your tales, and get the latest updates by joining our [Discord server](https://discord.com). Engage in discussions, exchange strategies, and become a part of the growing community of Infinite Adventures players.
 
 Prepare to embark on a text-based journey like no other. The terminal awaits, and the world of Infinite Adventures is yours to explore. Are you ready to shape your own epic tale?
 
